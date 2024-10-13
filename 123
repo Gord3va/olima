@@ -1,0 +1,20 @@
+<book name="Война и мир" author="Лев Толстой">
+   <print_year>1967</print_year>
+   <pages>781</pages>
+   <publishing_house>
+       <name>МИФ</name>
+       <address>г.Москва, Большой Козихинский переулок,д.7</address>
+   </publishing_house>
+   <users>
+       <user fio="Иванов И.И.">
+          <phone>+7123456789</phone>
+          <date_start>01.01.2003</date_start>
+          <date_end>10.02.2003</date_end>
+       </user>
+       <user fio="Петров П.П">
+          <phone>+7987654321</phone>
+          <date_start>13.02.2003</date_start>
+          <date_end></date_end>
+       </user>
+   </users>
+</book>
